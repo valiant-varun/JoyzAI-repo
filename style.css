@@ -1,7 +1,11 @@
 body {
-      background-color: #f0f4f8;
-      font-family: 'Segoe UI', sans-serif;
+  background: url('https://www.transparenttextures.com/patterns/gray-floral.png');
+  background-color: #f4f4f9;
+  font-family: 'Segoe UI', sans-serif;
 }
+
+
+
 
 .todo-container {
       max-width: 550px;
